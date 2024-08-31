@@ -1,8 +1,4 @@
-root{
-  margin:0;
-  top:0;
-  
-}
+
 
 
 body {     
@@ -12,7 +8,7 @@ body {
   .nav {
 align-items: center;
   
-  transform: translatex(500px);
+  transform: translatex(550px);
   position: fixed;
 
     
