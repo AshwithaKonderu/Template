@@ -1,0 +1,114 @@
+body {
+        
+        
+    font-family: cursive;
+  }
+  
+  .nav {
+align-items: center;
+  
+  transform: translatex(500px);
+  position: fixed;
+
+    
+  }
+  
+  a{
+    text-decoration: none;
+    color: black;
+  }
+  .section1{
+  
+   padding: 100px;
+    background-image: url(./img1.avif);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+   
+  }
+  .imgg1{
+    display: flex;
+    background-color:rgb(255, 255, 255,0.5);
+   border-radius: 25px;
+  }
+  
+      .para1{
+        padding-left:30px ;
+        font-size: 20px;
+        padding-top: 95px;
+       
+      }
+      #playfullpuffs{
+padding: 35px;
+border-radius: 30px;
+      }
+
+
+  
+
+  .section2{
+padding: 100px; 
+    background-image: url(./img3.avif);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+   
+      }
+      .imgg2{
+        background-color:rgb(255, 255, 255,0.5);
+        display: flex;
+        flex-direction: row-reverse;   
+        border-radius: 25px;
+      }
+      
+
+      
+     .para2{
+      padding-left: 30px;
+  font-size:20px;
+  padding-top: 100px;
+
+     }
+#SleepyPuffs{
+padding: 35px;
+border-radius: 30px;
+}
+  
+  .section3{ 
+   padding: 100px;
+    display: flex;
+    background-image: url(./img4.avif);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+   }
+   
+   
+ .para3{
+  padding-left: 30px;
+  font-size:20px;
+  padding-top: 100px;
+  
+ }
+
+
+#Curiouspuffs{
+padding: 35px;
+
+}
+img{
+border-radius: 30px;
+}
+
+
+ footer{
+  background-color:rgb(41, 41, 41);
+  color: white;
+  text-align: center;
+  height: 30px;
+  padding-top:10px ;
+  padding-bottom: 30px;
+ }
