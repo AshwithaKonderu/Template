@@ -4,11 +4,16 @@
 body {     
     font-family: cursive;
   }
+  .top{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+  }
   
   .nav {
 align-items: center;
   
-  transform: translatex(550px);
+  transform: translatex(560px);
   position: fixed;
 
     
@@ -112,4 +117,8 @@ border-radius: 30px;
   height: 30px;
   padding-top:10px ;
   padding-bottom: 30px;
+ }
+ @media only screen ( max-width:600px) {
+  
+
  }
