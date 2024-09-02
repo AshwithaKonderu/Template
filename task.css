@@ -4,20 +4,12 @@
 body {     
     font-family: cursive;
   }
-  .top{
+  .nav{
     position: fixed;
     width: 100%;
     text-align: center;
   }
   
-  .nav {
-align-items: center;
-  
-  transform: translatex(560px);
-  position: fixed;
-
-    
-  }
   
   a{
     text-decoration: none;
@@ -118,7 +110,4 @@ border-radius: 30px;
   padding-top:10px ;
   padding-bottom: 30px;
  }
- @media only screen ( max-width:600px) {
-  
-
- }
+ 
